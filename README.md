@@ -5,12 +5,12 @@ The three sets of 133 benchmark instances are from CCPLIB available from http://
 
 Reference papers to the capacitated clustering problem (CCP):
 
-[1] Saraç, T. , & Sipahioglu, A. (2014). Generalized quadratic multiple knapsack problem and two solution approaches. Computers & Operations Research, 43, 78–89.
+[1] Martínez-Gavara, A., Campos, V., Gallego, M., Laguna, M., & Martí, R. (2015). Tabu search and GRASP for the capacitated clustering problem. Computational Optimization and Applications, 62, 589-607.
 
-[2].Chen, Y. N. , & Hao, J. K. (2016). Memetic search for the generalized quadratic mul- tiple knapsack problem. IEEE Transactions on Evolutionary Computation, 20(6), 908–923.
+[2] Martinez-Gavara, A., Landa-Silva, D., Campos, V., & Marti, R. (2017). Randomized heuristics for the capacitated clustering problem. Information Sciences, 417, 154-168.
 
-[3].Avci, M. , & Topaloglu, S. (2017). A multi-start iterated local search algorithm for the generalized quadratic multiple knapsack problem. Computers & Operations Research, 83 , 54–65.
+[3] Lai, X., & Hao, J. K. (2016). Iterated variable neighborhood search for the capacitated clustering problem. Engineering Applications of Artificial Intelligence, 56, 102-120.
 
-[4].Adouani, Y., Jarboui, B., & Masmoudi, M. (2019). A matheuristic for the 0–1 generalized quadratic multiple knapsack problem. In Optimization letters . https: //doi.org/10.1007/s11590-019-01503-z. In press
+[4] Brimberg, J., Mladenović, N., Todosijević, R., & Urošević, D. (2019). Solving the capacitated clustering problem with variable neighborhood search. Annals of Operations Research, 272, 289-321.
 
-[5]. Zhou, Q., Hao, J. K., & Wu, Q. (2022). A hybrid evolutionary search for the generalized quadratic multiple knapsack problem. European Journal of Operational Research, 296(3), 788-803.
+
