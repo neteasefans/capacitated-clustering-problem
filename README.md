@@ -1,4 +1,4 @@
-# capacitated-clustering-problem
+# Heuristic search to the capacitated clustering problem
 This repository includes the source code of the proposed FITS and MA algorithm published in an EJOR paper titled with "Heuristic search to the capacitated clustering problem".
 
 The three sets of 133 benchmark instances are from CCPLIB available from http://www.optsicom.es/ccp/. To facilitate the further research, we upload the instances here.
@@ -13,4 +13,7 @@ Reference papers to the capacitated clustering problem (CCP):
 
 [4] Brimberg, J., Mladenović, N., Todosijević, R., & Urošević, D. (2019). Solving the capacitated clustering problem with variable neighborhood search. Annals of Operations Research, 272, 289-321.
 
+Please cite our work as:
+
+Zhou, Q., Benlic, U., Wu, Q., & Hao, J. K. (2019). Heuristic search to the capacitated clustering problem. European Journal of Operational Research, 273(2), 464-487.
 
