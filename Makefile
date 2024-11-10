@@ -1,6 +1,6 @@
-OUTPUT:=MA_handover
+OUTPUT:=MA_CCP
 
-SRC_DIR=./src_handover/
+SRC_DIR=./src/
 OBJS_DIR=./obj
 BUILD_DIR=./build/
 
