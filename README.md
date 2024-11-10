@@ -1,9 +1,9 @@
-# Heuristic search to the capacitated clustering problem
-This repository includes the source code of the proposed FITS and MA algorithm published in an EJOR paper titled with "Heuristic search to the capacitated clustering problem".
+# Heuristic search to the capacitated clustering problem (CCP)
+This repository includes the source code of the proposed MA algorithm published in an EJOR paper titled with "Heuristic search to the capacitated clustering problem".
 
 The three sets of 133 benchmark instances are from CCPLIB available from http://www.optsicom.es/ccp/. To facilitate the further research, we upload the instances here.
 
-Reference papers to the capacitated clustering problem (CCP):
+We made comparisons between MA and some state-of-the-art methods from the following related CCP works:
 
 [1] Martínez-Gavara, A., Campos, V., Gallego, M., Laguna, M., & Martí, R. (2015). Tabu search and GRASP for the capacitated clustering problem. Computational Optimization and Applications, 62, 589-607.
 
@@ -16,4 +16,26 @@ Reference papers to the capacitated clustering problem (CCP):
 Please cite our work as:
 
 Zhou, Q., Benlic, U., Wu, Q., & Hao, J. K. (2019). Heuristic search to the capacitated clustering problem. European Journal of Operational Research, 273(2), 464-487.
+
+** Instructions to use the source code of MA
+
+*** To compile:
+
+q.zhou$ make
+
+q.zhou$
+
+*** To run:
+
+q.zhou$ ./MA_CCP ./input_file ./output_sol_file ./out_stat_file
+
+(where "where input_file is the instance name, output_sol_file is a file used to store the solution information, output_stat_file stores the running information")
+
+q.zhou$
+
+*** To clean
+
+q.zhou$ make clean
+
+q.zhou$
 
