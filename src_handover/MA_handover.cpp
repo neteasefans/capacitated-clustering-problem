@@ -2138,7 +2138,7 @@ int main(int argc, char *argv[])
 	
 	if (argc < 4)
 	{
-		cout << "MA_CCP usage: input_file output_sol_file out_stat_file" << endl;
+		cout << "MA_handover usage: input_file output_sol_file out_stat_file" << endl;
 		cout << "(where input_file is the instance name, output_sol_file is a file used to store the solution information,	\
 			output_stat_file stores the running information)" << endl;
 		exit(-1);
